@@ -1,0 +1,28 @@
+GitHub is a very useful tool for managing versions of your software.  It's used by developers in every industry. In this course, I'll use it to store and update files from each day of class.  I'll use the bare minimum commands.  Here are some useful definitions and commands in github.
+
+Git overview: https://www.atlassian.com/git/tutorials/syncing/git-pull#:~:text=The%20git%20pull%20command%20is,Git%2Dbased%20collaboration%20work%20flows.
+
+setting up git on local machine: https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+
+Definitions:
+1. "Repo" : repository.  This is the main folder for housing a specific project.
+2. Push : The action of moving files from a local repo to a remote one (usually on github).
+3. Pull : The action of retrieving (i.e., copying) files FROM a remote location to a local one.
+4. Main : The main repo for a project.  There can be branches that are "checked out" from this main trunk.
+5. commit: "committing" the changes you've saved from your local to your remote repository
+
+Installing GIT: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+Commands:
+Create a new local repo and push it to a remote location:
+1. first, go to github and start an account.
+2. create a new repository (e.g., "IPT760-F20")
+3. Choose all the options on "Initialize this repository with:"
+4. Click on the "Code" button.  Choose "Use SSH". Copy the url
+5. Now, in terminal on your own machine, we need to turn your local directory into a git repo.  Navigate to that directory in your terminal/command line.  Then, run the command: git init
+6. Now that you have set up both your local and remote repos, we need to sync them.  Run the following command: git remote add origin https://github.com/staypuffinpc/IPT760-F20.git
+7. verify that you set it up correctly.  Run the following command: git remote -v
+8. To add your local files to your local git repo (NOT github) use this command: git add -A
+9. Now that your files are added, run the command: git status
+10.  Note that your files are now "green" and ready to be committed to the repo.  To commit them to the repo, run this command: git commit -m "<SOME MESSAGE>"
+11. You've now committed the changes LOCALLY, but you haven't done anything to the remote directory. You need to PUSH your local changes to the remote directory, using the following command: git push -u origin remote
