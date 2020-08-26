@@ -25,4 +25,5 @@ Create a new local repo and push it to a remote location:
 8. To add your local files to your local git repo (NOT github) use this command: git add -A
 9. Now that your files are added, run the command: git status
 10.  Note that your files are now "green" and ready to be committed to the repo.  To commit them to the repo, run this command: git commit -m "<SOME MESSAGE>"
-11. You've now committed the changes LOCALLY, but you haven't done anything to the remote directory. You need to PUSH your local changes to the remote directory, using the following command: git push -u origin remote
+11. You've now committed the changes LOCALLY, but you haven't done anything to the remote directory. You need to PUSH your local changes to the remote directory, using the following command: git push -u <LOCAL REPO NAME> master
+12. Every time you make changes on your local machine that you're ready to push to the remote repo, follow steps 8-11.
