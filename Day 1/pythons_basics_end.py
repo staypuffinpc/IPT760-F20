@@ -15,6 +15,12 @@ first = "Peter"
 last = "Rich"
 
 print ("My name is ", first + last)
+## 4 ways of formatting strings ##
+
+print ("My name is "+first + " "+ last+".") # Concatentation
+print ("My name is %s %s." % (first, last)) # the "old" formatting way
+print ("My name is {} {}.".format(first, last)) # the new .format() way
+print (f"My name is {first} {last}.") # f strings
 
 #Booleans
 lights = True
@@ -80,14 +86,57 @@ else:
 
 
 ######### LOOPS ############
+# count from 1 to 10
+for i in range(10):
+    print (i)
 
+#count from 1 to 10, start at 5
+for i in range(5,10):
+    print (i)
+
+#count from 1 to 10 by 2
+for i in range(1,10,2):
+    print (i)
+
+#while loops
+import time
+counter = 7
+while counter > 0:
+    print (counter)
+    counter = counter -1
+    time.sleep(1)
 
 ######### FUNCTIONS ############
+def silly():
+    ## do something silly
+    pass
+
+#create a function that takes arguments and returns a value
+def avg(num1, num2):
+    average = (num1 + num2) *.5
+    return average
+
+# create a docstring to indicate what the function is supposed to do
+define whatsyourname():
+    """the purpose of this function is to
+    ask people what their name is"""
+    name = input("What's your name?")
+    print (f"Oh, hello there {name}")
 
 
 
 ######### LIST METHODS ############
-
+# append()	Adds an element at the end of the list
+# clear()	Removes all the elements from the list
+# copy()	Returns a copy of the list
+# count()	Returns the number of elements with the specified value
+# extend()	Add the elements of a list (or any iterable), to the end of the current list
+# index()	Returns the index of the first element with the specified value
+# insert()	Adds an element at the specified position
+# pop()	Removes the element at the specified position
+# remove()	Removes the first item with the specified value
+# reverse()	Reverses the order of the list
+# sort()	Sorts the list
 
 ######### STRING METHODS ###########
 #sample string to work with
@@ -135,22 +184,22 @@ print(article1S2.find("New York"))
 print(article1S2[-3:])
 
 
-######### WORKING WITH AN EXTERNAL FILE ############
-import os
-## First, retrieve the file and store it in a variable ##
-fileDir = os.path.dirname(os.path.realpath('__file__'))
-fileName = os.path.abspath(os.path.join(fileDir,'../data/us_constitution.txt'))
-
-#open the file, read it into a variable named 'constitution' as a single string and then close it ('with' will close the file)
-with open(fileName,'r') as text:
-    constitution = text.read().replace('\n','')
-
-print(constitution)
-    #possible modes (2nd argument))
-        # r = read only
-        # w = write mode.  Will overwrite existing info
-        # a = append mode. Adds to the end of the file
-        # r+ = read/write
-        # x  open for exclusive creation.  Only works for NEW files
-        # b = binary mode
-        # t = text mode (Default)
+# ######### WORKING WITH AN EXTERNAL FILE ############
+# import os
+# ## First, retrieve the file and store it in a variable ##
+# fileDir = os.path.dirname(os.path.realpath('__file__'))
+# fileName = os.path.abspath(os.path.join(fileDir,'../data/us_constitution.txt'))
+#
+# #open the file, read it into a variable named 'constitution' as a single string and then close it ('with' will close the file)
+# with open(fileName,'r') as text:
+#     constitution = text.read().replace('\n','')
+#
+# print(constitution)
+#     #possible modes (2nd argument))
+#         # r = read only
+#         # w = write mode.  Will overwrite existing info
+#         # a = append mode. Adds to the end of the file
+#         # r+ = read/write
+#         # x  open for exclusive creation.  Only works for NEW files
+#         # b = binary mode
+#         # t = text mode (Default)
