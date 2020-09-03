@@ -3,10 +3,18 @@
 ############# INSTALL ATOM 2 #############
 • Atom will the code editor (IDE) that I will use during this class.  You can download it from: https://atom.io/
 • Once you've downloaded it, you'll need to install a few packages to make working with python in Atom easier.  To install packages in Atom,
-•• click on "Atom" and choose "Preferences".
+•• click on "Atom" and choose "Preferences" (OS X) or "Settings" (Windows).
 •• Click on the "+ Install" option
 •• Search for "autocomplete-python" package and install it
 •• Next, search for and install the "termination" package
+
+############### INSTALL PYTHON ###############
+If you are on a mac, python comes pre-installed, so sit pretty for a few moments.
+If you're on a Windows machine, follow these commands to get python up and running:
+1. download python from: https://www.python.org/downloads/windows/ (get 3.7.9, the latest stable release)
+2. on the next page scroll down to the "Files" table.  Choose an installer (I chose Windows x86-64...)
+3. Go through the rigamarole of downloading, running, and allowing the program to make changes to your machine.  IMPORTANT: when it asks you to install, check the box next to "Add python to PATH"
+4. Once the installer runs its course, you are ready to open up Atom and start coding in python!
 
 ############### Terminal/Command Line Shortcuts ###############
 • Terminal (OS X): https://gist.github.com/poopsplat/7195274
@@ -16,18 +24,18 @@
 2. check which directory you're currently in (pwd (OS X) or cwd (Windows))
 3. navigate to the directory you want to use (cd to "change directory" or "mkdir" to make a new directory)
 
-############### INSTALL PYTHON ###############
-If you are on a mac, python comes pre-installed, so sit pretty for a few moments.
-If you're on a Windows machine, follow these commands to get python up and running:
-• 
-
 ############### Set up a virtual environment for Python development ############
 1. Open terminal/cmd prompt
 2. run: pip install virtualenv (this will install the software to be able to install virtual environments.  You may get the message that this requirement has already been satisfied, which means that you can move on to the next step)
 3. navigate to the directory you want to install the virtual environment in (e.g. cd [directory])
-4. to install a new virtual environment, run the following: virtualenv [name] ([name] is whatever you want to name it)
+4. to install a new virtual environment, run the following:
+  a. (OS X): virtualenv [name] ([name] is whatever you want to name it)
 ---NOTE: to install a specific version of python, use the `which` command:  e.g., virtualenv -p `which python3.4` [name]
-5. to run your new environment, issue this command: source [venv name]/bin/activate
+  b. (Windows): virtualenv --python C:\Path\To\Python\python.exe [venv]
+5. to run your new environment,
+  *Note that [venv] should be whatever you named your virtualenv
+  a. (OS X): issue this command: source [venv]/bin/activate
+  b. (Windows): type .\[venv]\Scripts\activate
 
-----
+
 6. to deactivate the environment, run: deactivate
