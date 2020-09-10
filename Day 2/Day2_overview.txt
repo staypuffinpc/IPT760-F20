@@ -1,0 +1,20 @@
+Classes (Day 2)
+
+Review python fundamentals (1 hour):
+1. variables, types, functions (arguments, return), conditionals, loops
+2. Share constitution challenge solutions
+3. Practice string slicing in python
+----------------
+4. demonstrate regex searches (40 min)
+  a.digits, sequences [], iterations {}
+  b. "not" character (^)
+  c. wildcard characters (. * + ?)
+  d. combo characters (\w, \W, \s, \S, etc.)
+  e. 
+5. demonstrate python classes (40min)
+  a. class creation
+  b. __init__() function
+  3. basic properties (fields)
+  4. public methods
+  5. "private" methods
+  6. importing a class file
