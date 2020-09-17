@@ -6,11 +6,12 @@ Review python fundamentals (1 hour):
 3. Practice string slicing in python
 ----------------
 4. demonstrate regex searches (40 min)
-  a.digits, sequences [], iterations {}
-  b. "not" character (^)
-  c. wildcard characters (. * + ?)
-  d. combo characters (\w, \W, \s, \S, etc.)
-  e. 
+  a. characters (., *, \. (escape), \w, \W, \s, \S, \d, \D)
+  b. quantifiers: +, {n},{1,4}, {3,}, *, ?
+  c. Logic: | (or), (...) group, [^] not, \1, \2, (?: ...) non capturing group
+  c. white space: \s, \t (tab), \r (carriage return), \r\n (line sep. Win), \v (vertical tab),
+  d. Anchors/Boundaries: ^ start of string/line, $ end of string/line, \A, beginning of string, \b (word boundary)
+  e.
 5. demonstrate python classes (40min)
   a. class creation
   b. __init__() function
