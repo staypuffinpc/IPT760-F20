@@ -1,0 +1,204 @@
+1601525879384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileavdbmr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601525885505	Marionette	INFO	Listening on port 57265
+1601525885538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://my.byu.edu/uPortal/media/skins/universality/common/javascript/unBfGl1tBi0rRb889cAJ7g.aggr.min.js, line 1: TypeError: up.analytics is undefined
+1601526249414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofile1Ko4sh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601526255381	Marionette	INFO	Listening on port 60721
+1601526255456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601526321561	Marionette	INFO	Stopped listening on port 60721
+1601526326625	Marionette	INFO	Stopped listening on port 57265
+1601526359231	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofile1dR8Cf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601526364696	Marionette	INFO	Listening on port 61747
+1601526364756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601526712974	Marionette	INFO	Stopped listening on port 61747
+1601527237343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofile0rzcn9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601527243031	Marionette	INFO	Listening on port 51475
+1601527243074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601527623242	Marionette	INFO	Stopped listening on port 51475
+1601527634889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileYkTEki"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601527640403	Marionette	INFO	Listening on port 54459
+1601527640441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601527787668	Marionette	INFO	Stopped listening on port 54459
+1601527796410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileTPyssX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601527801920	Marionette	INFO	Listening on port 55924
+1601527801925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601527872354	Marionette	INFO	Stopped listening on port 55924
+1601527893027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileroBTI8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601527898532	Marionette	INFO	Listening on port 56808
+1601527898551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://my.byu.edu/uPortal/media/skins/universality/common/javascript/unBfGl1tBi0rRb889cAJ7g.aggr.min.js, line 1: TypeError: up.analytics is undefined
+1601528211185	Marionette	INFO	Stopped listening on port 56808
+1601528215948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileMZlPBs"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601528221355	Marionette	INFO	Listening on port 59360
+1601528221373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+1601528231402	Marionette	INFO	Stopped listening on port 59360
+1601528276941	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofile5x1YgB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601528282361	Marionette	INFO	Listening on port 59888
+1601528282450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+1601528294320	Marionette	INFO	Stopped listening on port 59888
+1601528317511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofilekOgcI7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601528322699	Marionette	INFO	Listening on port 60311
+1601528322721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601528402572	Marionette	INFO	Stopped listening on port 60311
+1601528414317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileMMftxL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601528419672	Marionette	INFO	Listening on port 61197
+1601528419716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601528703373	Marionette	INFO	Stopped listening on port 61197
+1601528767152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofile2HpMHA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601528772460	Marionette	INFO	Listening on port 63881
+1601528772476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601528852516	Marionette	INFO	Stopped listening on port 63881
+1601562458036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofilefPYors"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601562464273	Marionette	INFO	Listening on port 50178
+1601562464357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+1601562904860	Marionette	INFO	Stopped listening on port 50178
+1601562928387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileCgbs0o"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601562933813	Marionette	INFO	Listening on port 54252
+1601562933890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601563056530	Marionette	INFO	Stopped listening on port 54252
+1601563525072	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofile20eX2b"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601563530691	Marionette	INFO	Listening on port 58882
+1601563530701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601564159214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofile83l6zu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601564164856	Marionette	INFO	Listening on port 64611
+1601564164955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601564307260	Marionette	INFO	Stopped listening on port 64611
+1601564308954	Marionette	INFO	Stopped listening on port 58882
+1601570760691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileZ565Ow"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601570767098	Marionette	INFO	Listening on port 49868
+1601570767132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601570856028	Marionette	INFO	Stopped listening on port 49868
+1601570868984	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileNcNmqP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601570874245	Marionette	INFO	Listening on port 50992
+1601570874295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cas.byu.edu/cas/login?service=https://my.byu.edu/uPortal/Login, line 1: ReferenceError: onFocusNetID is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript error: https://cas.byu.edu/cas/js/cas.js, line 111: ReferenceError: trackGeoLocation is not defined
+JavaScript warning: https://api-d3b66583.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1601573265281	Marionette	INFO	Stopped listening on port 50992
+1601574085737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileV4Fqlb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601574091286	Marionette	INFO	Listening on port 53431
+1601574091372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601574384798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileQppZpM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601574390290	Marionette	INFO	Listening on port 55314
+1601574390325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601574428669	Marionette	INFO	Stopped listening on port 55314
+1601574921462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileqI4kGD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601574926976	Marionette	INFO	Listening on port 59282
+1601574927067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601574966272	Marionette	INFO	Stopped listening on port 59282
+1601574968534	Marionette	INFO	Stopped listening on port 53431
+1601574972885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileBC2SVr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601574978183	Marionette	INFO	Listening on port 59857
+1601574978205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601575184628	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofilenQyrgx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601575189965	Marionette	INFO	Listening on port 62193
+1601575190047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601575224324	Marionette	INFO	Stopped listening on port 62193
+1601575227291	Marionette	INFO	Stopped listening on port 59857
+1601584970259	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofileZt98PC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601584976761	Marionette	INFO	Listening on port 50111
+1601584976823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601585051627	Marionette	INFO	Stopped listening on port 50111
+1601585594244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mj/rcn4tw_11wndtn8nnv0_pn5r0000gp/T/rust_mozprofilebBA8xu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601585599870	Marionette	INFO	Listening on port 56229
+1601585599920	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1601585847221	Marionette	INFO	Stopped listening on port 56229
